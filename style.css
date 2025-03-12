@@ -1,7 +1,5 @@
 
-@import url(<style>
 @import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
-</style>);
 .cabecalho{
     background-color: grey;
     width:100%;
@@ -13,6 +11,6 @@
 .titulo{
     color:black;
     font-size: 32px;
-    font-family:Embed code;
+    font-family:Rock Salt;
 
 }
