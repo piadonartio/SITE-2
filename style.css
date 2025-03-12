@@ -1,6 +1,18 @@
+
+@import url(<style>
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+</style>);
 .cabecalho{
     background-color: grey;
+    width:100%;
 }
 .topicos{
     color: black;
+    font-size: 24px;
+}
+.titulo{
+    color:black;
+    font-size: 32px;
+    font-family:Embed code;
+
 }
