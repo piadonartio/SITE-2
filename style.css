@@ -12,5 +12,21 @@
     color:black;
     font-size: 32px;
     font-family:Rock Salt;
-
+    text-align: conter;
+}
+.texto{
+    background-color: brown;
+}
+.h2{
+    font-family: Rock salt;
+    font-size: 24px;
+    color: black;  
+}
+.texto-inicial{
+    font-size: 24px;
+    color: black;
+}
+.texto-fonte{
+    font-size: 18px;
+    color: black;
 }
