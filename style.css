@@ -30,7 +30,6 @@
     font-size: 18px;
     color: black;
 }
-.primeira-linha{
-    display: grid;
-    grid-comum: 30%
+.foto{
+    width: 30% 30% 30%;
 }
