@@ -32,6 +32,8 @@
 }
 .foto{
     width: 30%;
+    border-radius: 10px;
+    height: 500px;
 }
 .botao{
     text-decoration :none;
