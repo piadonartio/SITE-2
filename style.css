@@ -42,8 +42,8 @@
 }
 .foto-explorar{
     text-align: left;
-    width: 500px;
-    height: 500px;
+    width: 600px;
+    height: 600px;
     display: inline-block;
 }
 .destino{
@@ -63,10 +63,10 @@
 .botao-link{
     text-decoration: none;
     display: flex;
-    color:#e8fbbb;
+    color:#ffffff;
     font-size: 24px;
     padding-left: 2em;
     padding-right: 2em;
-    background-color: #4d543d;
+    background-color: #252623;
 }
 
