@@ -31,18 +31,30 @@
     color: black;
 }
 .foto{
-    width: 30%;
+    width: 33%;
     border-radius: 10px;
     height: 500px;
 }
-.botao{
-    text-decoration :none;
+.texto-descricao{
+    font-size: 24px;
+    display: inline-block;
 }
+.foto-explorar{
+    text-align: left;
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+}
+.destino{
+    display: flex;
+    align-items: center;
+}
+
 .topicos{
     display: flex;
     position: absolute;
     padding: 1em;
-    list-style-type: none;
+    list-style-type: none; 
     flex-wrap: wrap;
     width: 100%;
     text-align: left;
@@ -50,9 +62,10 @@
 .botao-link{
     text-decoration: none;
     display: flex;
-    color: aquamarine;
+    color:#e8fbbb;
     font-size: 24px;
     padding-left: 2em;
     padding-right: 2em;
-    background-color: black;
+    background-color: #4d543d;
 }
+
