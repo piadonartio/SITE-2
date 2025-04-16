@@ -38,3 +38,21 @@
 .botao{
     text-decoration :none;
 }
+.topicos{
+    display: flex;
+    position: absolute;
+    padding: 1em;
+    list-style-type: none;
+    flex-wrap: wrap;
+    width: 100%;
+    text-align: left;
+}
+.botao-link{
+    text-decoration: none;
+    display: flex;
+    color: aquamarine;
+    font-size: 24px;
+    padding-left: 2em;
+    padding-right: 2em;
+    background-color: black;
+}
