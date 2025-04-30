@@ -1,7 +1,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
 :root{
-   background-color: rgb(25, 17, 6);
+   background-color: rgb(255, 255, 255);
 }
 .cabecalho{
     background-color: #854040;
@@ -26,7 +26,7 @@
 }
 .texto-inicial{
     font-size: 24px;
-    color: black;
+    color: rgb(255, 223, 223);
 }
 .texto-fonte{
     font-size: 18px;
