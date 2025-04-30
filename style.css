@@ -4,7 +4,7 @@
    background-color: rgb(25, 17, 6);
 }
 .cabecalho{
-    background-color: rgb(255, 255, 255);
+    background-color: #4b67b2;
     width:100%;
 }
 .botao{
@@ -13,7 +13,7 @@
     text-decoration: none;
 }
 .titulo{
-    color:black;
+    color:#4f4e92;
     font-size: 32px;
     font-family:Rock Salt;
     text-align: conter;
