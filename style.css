@@ -1,5 +1,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+:root{
+   background-color: rgb(25, 17, 6);
+}
 .cabecalho{
     background-color: rgb(188, 137, 137);
     width:100%;
@@ -7,6 +10,7 @@
 .botao{
     color: black;
     font-size: 24px;
+    text-decoration: none;
 }
 .titulo{
     color:black;
@@ -14,9 +18,6 @@
     font-family:Rock Salt;
     text-align: conter;
     padding: 3em;
-}
-.texto{
-    background-color: brown;
 }
 .h2{
     font-family: Rock salt;
